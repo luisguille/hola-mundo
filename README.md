@@ -1,2 +1,3 @@
 # hola-mundo
-Estudiate
+Hola a todos
+soy un estudiante grado undecimo
